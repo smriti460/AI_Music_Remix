@@ -2,4 +2,3 @@ streamlit
 pydub==0.25.1
 ffmpeg-python
 numpy
-pyaudioop
